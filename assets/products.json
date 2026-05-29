@@ -1,0 +1,77 @@
+{
+    "products": [
+        {
+            "name": "\n Following gaming devices are under 20000 \n iQOO Z9s 5G (Onyx Green, 8GB RAM, 128GB Storage) | 120 Hz 3D Curved AMOLED Display | 5500 mAh Ultra-Thin Battery | Dimesity 7300 5G Processor | Sony IMX882 OIS Camera with Aura Light \n \n Realme 13 5G (Speed Green, 8GB RAM, 256GB Storage) | Expandable Upto 2TB | Up to 18GB Dynamic RAM | 50MP AI Dual Camera | 6.72 AMOLED Display | 45W Ultra Charging | Dimensity 6300 Processor \n \n iQOO Z9 5G (Brushed Green, 8GB RAM, 128GB Storage) | Dimensity 7200 5G Processor | Sony IMX882 OIS Camera | 120Hz AMOLED with 1800 nits Local Peak Brightness | 44W Charger in The Box\n \n ",
+            "category": "mobile",
+            "price": 20000,
+            "purpose": [
+                "gaming"
+            ]
+        },
+        {
+            "name": "\n Following gaming devices are under 25000 \n iQOO Z9s 5G (Onyx Green, 8GB RAM, 128GB Storage) | 120 Hz 3D Curved AMOLED Display | 5500 mAh Ultra-Thin Battery | Dimesity 7300 5G Processor | Sony IMX882 OIS Camera with Aura Light \n \n Realme 13 5G (Speed Green, 8GB RAM, 256GB Storage) | Expandable Upto 2TB | Up to 18GB Dynamic RAM | 50MP AI Dual Camera | 6.72 AMOLED Display | 45W Ultra Charging | Dimensity 6300 Processor \n \n iQOO Z9 5G (Brushed Green, 8GB RAM, 128GB Storage) | Dimensity 7200 5G Processor | Sony IMX882 OIS Camera | 120Hz AMOLED with 1800 nits Local Peak Brightness | 44W Charger in The Box\n \n ",
+            "category": "mobile",
+            "price": 25000,
+            "purpose": [
+                "gaming"
+            ]
+        },
+        {
+            "name": "\n Following gaming devices are under 35000 \n OnePlus 12R (Cool Blue, 8GB RAM, 128GB Storage) Fast & Smooth for years: Snapdragon 8 Gen 2 Mobile Platform, Up to 16GB of LPDDR5X RAM with RAM-Vita - Dual Cryo-velocity VC Cooling System, TÜV SÜD 48-Month Fluency Rating A Elite Performance with Snapdragon 8 Gen 2 Gaming Processor \n \n OnePlus 11R 5G (Galactic Silver, 8GB RAM, 128GB Storage) Snapdragon 8+ Gen 1 Mobile Platform 6.7 Inches; 120 Hz Super Fluid AMOLED; Resolution: 2772 X 1240 pixels ,450 ppi, 20.1:9, 10-bit Color Depth, HDR10+ \n \n ",
+            "category": "mobile",
+            "price": 35000,
+            "purpose": [
+                "gaming"
+            ]
+        },
+        {
+            "name": "\n Following photography devices are under 20000 \n Vivo T3x 5G (Crimson Bliss, 128 GB) (6 GB RAM) \n \n vivo Y28s 5G (Vintage Red, 6GB RAM, 128GB Storage) with No Cost EMI/Additional Exchange Offers \n \n OPPO A3 Pro 5G (Moonlight Purple, 8GB RAM, 128GB Storage)|6.67” HD+ 120Hz Refresh Rate Screen | 45W SUPERVOOC|with No Cost EMI/Additional Exchange Offers \n \n OPPO F27 5G (Emerald Green, 8GB RAM, 128GB Storage) Without Offer",
+            "category": "mobile",
+            "price": 20000,
+            "purpose": [
+                "photography"
+            ]
+        },
+        {
+            "name": "\n Following photography devices are under 25000 \n Vivo V30e 5G Smartphone (Velvet Red, 8GB RAM, 128GB Storage) Optical Sensor Resolution 50 MP \n \n Vivo Y300 5G (Titanium Silver, 8GB RAM, 128GB Storage) with No Cost EMI/Additional Exchange Offers 50 MP Main Camera with Sony 882 AF with Single pixel size of 0.8 μm | f/1.79 1/1.953 ″ Sensor size | 32 MP Portrait Camera with Single pixel size of 0.7 μm | 1/3.1 ″sensor size | f/2.45 aperture with 2 MP Bokeh Camera with f/2.4 | AI Aura Light (Three levels of automatic brightness adjustment + Stepless automatic cool and warm color adjustment) \n \n OPPO F27 5G (Emerald Green, 8GB RAM, 256GB Storage) | 6.67 FHD+ AMOLED Display|32MP Sony IMX615 Selfie Camera |AI Portrait Expert| 45W SUPERVOOC| with No Cost EMI Additional Exchange Offers",
+            "category": "mobile",
+            "price": 25000,
+            "purpose": [
+                "photography"
+            ]
+        },
+        {
+            "name": "\n Following Air Conditioners are under 35000 \n Godrej 1 Ton 3 Star, 5 Years Comprehensive Warranty, 5-In-1 Convertible Cooling, Inverter Split AC (Copper, I-Sense Technology, 2024 Model, AC 1T EI 12TINV3R32-GWA Split, White) \n \n LG 1 Ton 4 Star DUAL Inverter Split AC (Copper, AI Convertible 6-in-1 Cooling, 4 Way Swing, HD Filter with Anti-Virus Protection, Faster Cooling & Energy Saving, 2024 Model, TS-Q13JNYE, White) \n \n Cruise 1 Ton 3 Star Inverter Split AC with 7-Stage Air Filtration (100% Copper, Auto Convertible, PM 2.5 Filter, 2024 Model, CWCVBH-VQ1W123, White) \n \n Voltas 1 ton 3 Star Inverter Split AC (Copper, 4-in-1 Adjustable Mode, Anti-dust Filter, 2024 Model, 123V CAE, White)",
+            "category": "air conditioner",
+            "price": 35000,
+            "tonnage": 1
+        },
+        {
+            "name": "\n Following Air Conditioners are under 45000 \n Godrej 2 Ton 3 Star, 5 Years Comprehensive Warranty, 5-In-1 Convertible Cooling, Inverter Split AC (Copper, I-Sense Technology, 2024 Model, AC 2T EI 24IINV3R32 WWR, White) \n \n Cruise 2 Ton 3 Star Inverter Split AC with 7-Stage Air Filtration (100% Copper, Convertible 4-in-1, PM 2.5 Filter, Anti-Rust Technology, 2024 Model, CWCVBK-VQ1W243, White) \n \n Blue Star 2 Ton 3 Star Inverter Split AC with (Copper, Convertible 5 in 1 Cooling, Smart Ready, Auto Defrost, Dust Filters, Blue Fins, 2024 Model, IC324YNU, White)",
+            "category": "air conditioner",
+            "price": 45000,
+            "tonnage": 2.0
+        },
+        {
+            "name": "\n Following Air Conditioners are under 40000 \n Hitachi 1.5 Ton Class 3 Star, ice Clean, Xpandable+, Inverter Split AC (100% Copper, Dust Filter, 2024 Model - 3400FXL RAS.G318PCBIBF, White) \n \n Voltas 1.5 ton 3 Star, Inverter Split AC (Copper, 4-in-1 Adjustable Mode, Anti-dust Filter, 2024 Model, 183V Vectra CAW, White) \n \n Daikin 1.5 Ton 3 Star Inverter Split AC (Copper, PM 2.5 Filter, Triple Display, Dew Clean Technology, Coanda Airflow, 2024 Model, MTKL50U, White)",
+            "category": "air conditioner",
+            "price": 40000,
+            "tonnage": 1.5
+        },
+        {
+            "name": "Under 200",
+            "category": "refrigerator",
+            "capacity": "200"
+        },
+        {
+            "name": "Under 300",
+            "category": "refrigerator",
+            "capacity": "300"
+        },
+        {
+            "name": "Under 400",
+            "category": "refrigerator",
+            "capacity": "400"
+        }
+    ]
+}
